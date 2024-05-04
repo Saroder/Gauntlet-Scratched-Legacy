@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
   # Jekyll theme
-theme: architect@v0.2.0
+remote_theme: pages-themes/architect@v0.2.0
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
